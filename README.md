@@ -42,8 +42,8 @@ I am a final-year B.Tech student in Electronics and Communication Engineering wi
 ---
 
 ### 📫 Let's Connect!
-- 💼 [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME)
-- 📧 [Email](mailto:your.email@example.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/arun-teja-dev/)
+- 📧 [Email](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)
 
 ---
 
